@@ -7,3 +7,9 @@
 ### Atualmente desenvolvendo conhecimento em Java, JavaScript, Html, CSS, Phyton, R.
 
 ### Abaixo segue o link de outros repositorios no qual desenvolvo projetos que estão em fase inicial, mas que irei aprimora-los com o tempo.
+
+#### Encriptador
+https://github.com/diegogaraujo/Encriptador
+
+#### Tik Tok Project
+https://github.com/diegogaraujo/Tik-Tok-Project
