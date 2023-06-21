@@ -13,8 +13,7 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaraujo)](https://github.com/diegogaraujo/encriptador)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaraujo)](https://github.com/diegogaraujo/tiktok-project)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaraujo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Projetos
