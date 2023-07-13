@@ -20,6 +20,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=tiktok-project)](https://github.com/diegogaraujo/tiktok-project)
 
-### Contato
+### Conecte-se comigo
 
 [<img src='https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='40'>](https://www.linkedin.com/in/dev-diego-araujo/)
