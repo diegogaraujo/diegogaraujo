@@ -4,7 +4,7 @@
 
 # Sejam bem vindos(as)!!
 
-### Me chamo Diego Araujo e sou um desenvolvedor back-end iniciante, graduando em Ciência de Dados e apaixonado por tecnologia, aqui irei apresentar os meus projetos.
+### Me chamo Diego Araujo e sou um desenvolvedor back-end em formação, graduando em Ciência de Dados e apaixonado por tecnologia, aqui irei apresentar os meus projetos.
 
 
 ### Desenvolvimento
