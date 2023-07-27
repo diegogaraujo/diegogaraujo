@@ -20,7 +20,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=tiktok-project)](https://github.com/diegogaraujo/tiktok-project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=tiktok-project)](https://github.com/diegogaraujo/sistema-banco-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=sistema-banco-python)](https://github.com/diegogaraujo/sistema-banco-python)
 
 ### Conecte-se comigo
 
