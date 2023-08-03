@@ -2,7 +2,7 @@
 
 # Sejam bem vindos(as)!!
 
-### Me chamo Diego Araujo e sou um desenvolvedor back-end em formação, graduando em Ciência de Dados e apaixonado por tecnologia, aqui irei apresentar os meus projetos.
+### Me chamo Diego Araujo Graduando em Ciência de Dados e apaixonado por tecnologia, aqui irei apresentar todos meus projetos.
 
 
 ### Desenvolvimento
@@ -16,9 +16,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=encriptador)](https://github.com/diegogaraujo/encriptador)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=tiktok-project)](https://github.com/diegogaraujo/tiktok-project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=sistema-banco-python)](https://github.com/diegogaraujo/sistema-banco-python)
 
