@@ -11,7 +11,7 @@
 
 ### Linguagens utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaraujo&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaraujo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Projetos
