@@ -20,7 +20,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=sistema-banco-python)](https://github.com/diegogaraujo/sistema-banco-python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegogaraujo&repo=banco-de-dados-ecommerce-mysql)](https://github.com/diegogaraujo/banco-de-dados-ecommerce-mysql)
 
 ### Conecte-se comigo
 
